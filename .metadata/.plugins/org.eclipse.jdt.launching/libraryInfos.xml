@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="C:\SWSetup\server-jre-8-windows-x64\jdk1.8.0" version="1.8.0">
+        <bootpath>
+            <entry path="C:\SWSetup\server-jre-8-windows-x64\jdk1.8.0\jre\lib\resources.jar"/>
+            <entry path="C:\SWSetup\server-jre-8-windows-x64\jdk1.8.0\jre\lib\rt.jar"/>
+            <entry path="C:\SWSetup\server-jre-8-windows-x64\jdk1.8.0\jre\lib\sunrsasign.jar"/>
+            <entry path="C:\SWSetup\server-jre-8-windows-x64\jdk1.8.0\jre\lib\jsse.jar"/>
+            <entry path="C:\SWSetup\server-jre-8-windows-x64\jdk1.8.0\jre\lib\jce.jar"/>
+            <entry path="C:\SWSetup\server-jre-8-windows-x64\jdk1.8.0\jre\lib\charsets.jar"/>
+            <entry path="C:\SWSetup\server-jre-8-windows-x64\jdk1.8.0\jre\lib\jfr.jar"/>
+            <entry path="C:\SWSetup\server-jre-8-windows-x64\jdk1.8.0\jre\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="C:\SWSetup\server-jre-8-windows-x64\jdk1.8.0\jre\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="C:\SWSetup\server-jre-8-windows-x64\jdk1.8.0\jre\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="C:\sibashish\sts-4.31.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.7.v20250502-0916" version="21.0.7">
+        <bootpath>
+            <entry path="null"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="null"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="null"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="C:\sibashish\sts-4.31.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.7.v20250502-0916\jre" version="21.0.7"/>
+</libraryInfos>
