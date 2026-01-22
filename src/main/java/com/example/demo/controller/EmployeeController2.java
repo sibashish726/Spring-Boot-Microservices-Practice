@@ -16,10 +16,10 @@ import com.example.demo.model.Employee;
 import com.example.demo.service.EmployeeService;
 
 @RestController
-@RequestMapping("/v1/employee")
-public class EmployeeController {
+@RequestMapping("/v2/employee")
+public class EmployeeController2 {
 	
-	@Qualifier("employeeServiceImp")
+	@Qualifier("employeeServiceImp2")
 	@Autowired
 	private EmployeeService employeeService;
 	
