@@ -2,7 +2,6 @@ package com.example.demo.service;
 
 import java.util.*;
 import java.util.concurrent.atomic.AtomicLong;
-import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
 import org.springframework.beans.BeanUtils;
@@ -56,7 +55,8 @@ public class EmployeeServiceImp2 implements EmployeeService {
 
 	@Override
 	public String deleteEmployeeById(String id) {
-		return null;
+		 employeeRepo.deleteById(id);
+		 return "Employee deleted :"+id;
 	}
 
 }
