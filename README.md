@@ -3,6 +3,7 @@
 * Serice Discovery 
 * Database per service
 
-# High Level Design s
+# High Level Design 
+
 ![App Dashboard](./HLD.png)
 
